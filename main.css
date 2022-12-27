@@ -1,0 +1,28 @@
+body{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+form{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+#Name-task{
+  padding: 8px;
+}
+
+#Btn-Add-new-task{
+  padding: 8px;
+  font-weight: bold;
+  font-size: 15px;
+  cursor: pointer;
+}
+
+ul li{
+  font-size: 25px;
+  cursor: pointer;
+}
