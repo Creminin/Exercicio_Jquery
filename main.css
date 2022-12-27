@@ -26,3 +26,7 @@ ul li{
   font-size: 25px;
   cursor: pointer;
 }
+
+.Active-line-through{
+  text-decoration: line-through;
+}
